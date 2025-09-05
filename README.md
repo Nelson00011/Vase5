@@ -1,9 +1,9 @@
-<h1 align="center">projectsFULLSTACK</h1>
+<h1 align="center">Vase5</h1>
 
 `main image`
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs
+**AI For Developers With GitHub Copilot, Cursor AI & ChatGPT** educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.

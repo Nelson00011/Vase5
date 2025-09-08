@@ -96,10 +96,18 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
 ## Resources:
 
-- `Tech used and links associated`
-- `Tech used and links associated`
+#### **Developer Tools:**
+- **GitHub Copilot** writes, tests, and iterates—using GitHub Actions to run code and deliver ready-to-review pull [requests](https://github.com/features/copilot)
+    - **Github Copilot Chat** [specific](https://docs.github.com/en/copilot/how-tos/use-chat/get-started-with-chat) questions about your project or general software questions; set-up [instructions](https://code.visualstudio.com/docs/copilot/setup-simplified). You can also ask Copilot Chat to write code, fix errors, write tests, and document code. Allows inserting code at the position of the cursor. 
+    ```
+    > github fix
+    ```
+   
 
-`<examples below>`
+- **Cursor** Built to make you extraordinarily productive, [Cursor](https://cursor.com/en) is the best way to code with AI.
+    - **Pricing** options are [available](https://cursor.com/pricing)
+
+
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
     - jwt Debugger [here](https://jwt.io/#debugger-io)

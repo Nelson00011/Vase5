@@ -102,6 +102,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     ```
     > github fix
     ```
+    - **Copilot Extensions** capabilities using third party tools, services, and [data](https://github.com/marketplace?type=apps&copilot_app=true).
    
 
 - **Cursor** Built to make you extraordinarily productive, [Cursor](https://cursor.com/en) is the best way to code with AI.

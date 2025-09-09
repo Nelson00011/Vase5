@@ -126,6 +126,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - `useful hints for future projects to go faster`
 - console log testing with `ctr-alt-l` 
 - Always Stay Positive & Triple Check Permissions :)
+- When using Copilot apps remember to double check: dependencies, files, routing paths. 
 
 
 

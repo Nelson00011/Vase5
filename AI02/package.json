@@ -10,7 +10,7 @@
     "node",
     "express"
   ],
-  "author": "",
+  "author": "oakhalo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"

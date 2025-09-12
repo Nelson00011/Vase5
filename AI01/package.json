@@ -2,15 +2,17 @@
   "name": "my-nodejs-express-app",
   "version": "1.0.0",
   "description": "A Node.js Express application",
-  "main": "src/app.js",
+  "main": "app.js",
+  "type": "module",
+
   "scripts": {
-    "start": "node src/app.js"
+    "dev": "app.js"
   },
   "keywords": [
     "node",
     "express"
   ],
-  "author": "",
+  "author": "oakhalo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"

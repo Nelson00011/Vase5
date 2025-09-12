@@ -104,9 +104,13 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     ```
     - **Copilot Extensions** capabilities using third party tools, services, and [data](https://github.com/marketplace?type=apps&copilot_app=true).
    
-
 - **Cursor** Built to make you extraordinarily productive, [Cursor](https://cursor.com/en) is the best way to code with AI.
     - **Pricing** options are [available](https://cursor.com/pricing)
+
+- **OpenAi** for chatGPT [here](https://openai.com/)
+    - **ChatGPT** [here](https://platform.openai.com/docs/overview)
+        - Pricing Options for [Platform](https://platform.openai.com/docs/pricing) and [OpenAI](https://openai.com/api/pricing/) including Text Generation [Documentation](https://platform.openai.com/docs/guides/text?api-mode=responses)
+    - Large Language Models (LLM) like [LM Studio as a Local LLM API Server](https://lmstudio.ai/docs/app/api) and [Configuring Ollama AI LLM](https://medium.com/@sreskills/configuring-ollama-ai-llm-on-an-ec2-instance-in-aws-12cff0f5d83b), including [models](https://platform.openai.com/docs/models)
 
 
 - **PostMan** for API Tests [here](https://www.postman.com/)

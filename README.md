@@ -116,6 +116,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
         - Pricing Options for [Platform](https://platform.openai.com/docs/pricing) and [OpenAI](https://openai.com/api/pricing/) including Text Generation [Documentation](https://platform.openai.com/docs/guides/text?api-mode=responses)
     - Large Language Models (LLM) like [LM Studio as a Local LLM API Server](https://lmstudio.ai/docs/app/api) and [Configuring Ollama AI LLM](https://medium.com/@sreskills/configuring-ollama-ai-llm-on-an-ec2-instance-in-aws-12cff0f5d83b), including [models](https://platform.openai.com/docs/models)
 
+
     ```
     npm install express
     ```

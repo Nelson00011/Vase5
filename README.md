@@ -37,11 +37,11 @@
 ```
 > npx create-react-app <project name>
 > cd <project name>
-> npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-> npm install --save react-router-dom
-> npm install react-redux @reduxjs/toolkit
-> npm install formik yup dotenv react-responsive-carousel
-> npm install --save @stripe/react-stripe-js @stripe/stripe-js
+> npm install express
+> npm install better-sqlite3
+> npm install bcryptjs
+> npm install multer
+> npm install cors
 ```
 - Test front-end once pages are generated (ctrl-c to exit):
 ```
@@ -99,6 +99,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 #### **Developer Tools:**
 - **Node.js** is an npm package manager that must be [downloaded](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) first. 
     - **Express.js** for [Node.js](https://expressjs.com/) is used for the backend components. This is from [OpenJS](https://openjsf.org/) Foundation.
+    - **Cross-Origin Resource** sharing (CORS) [documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
 
 
 - **GitHub Copilot** writes, tests, and iterates—using GitHub Actions to run code and deliver ready-to-review pull [requests](https://github.com/features/copilot)

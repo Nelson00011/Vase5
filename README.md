@@ -1,6 +1,6 @@
 <h1 align="center">Vase5</h1>
 
-<a href="https://openai.com/index/chatgpt/"><img src="./troubleShooting/IntroducingChatGPT.png"></img></a>
+<a href="https://openai.com/index/chatgpt/" align="center" ><img src="./troubleShooting/IntroducingChatGPT.png"></img></a>
 
 ## Description:
 **AI For Developers With GitHub Copilot, Cursor AI & ChatGPT** educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 

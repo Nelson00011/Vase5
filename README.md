@@ -1,25 +1,14 @@
 <h1 align="center">Vase5</h1>
 
-`main image`
+<a href="https://openai.com/index/chatgpt/"><img src="./troubleShooting/IntroducingChatGPT.png"></img></a>
 
 ## Description:
 **AI For Developers With GitHub Copilot, Cursor AI & ChatGPT** educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
-- **API:** Api calls or external sources used
-- **Backend/Server:** node.js/express or python alternatives, include databases
-
-<h2 align="center">Video:</h2>
-
-## Screen Shots:
-<p align="center">Please reference the screenshot folder for more available images</p>
-
-`selected image 1`
-
-`selected image 2`
-
-`selected image 3`
+- **API:** ChatGPT
+- **Backend/Server:** Node.js / Express
 
 ## Run Code (Environment)
 
@@ -82,9 +71,6 @@ const items = await fetch(
 )
 ```
 --------------------------
-### Deployment
-
-
 
 ## Contact:
 <!--- You can add in your linkedin, medium, stack overflow, dev.to account, etc. here --->
